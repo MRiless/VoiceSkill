@@ -26,7 +26,7 @@ Messages include the **project name** so you can tell which session is asking wh
 ## Install
 
 ```bash
-git clone https://github.com/rileylemm/VoiceSkill.git
+git clone https://github.com/MRiless/VoiceSkill.git
 cd VoiceSkill
 bash install.sh
 ```

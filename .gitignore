@@ -1,4 +1,15 @@
-
-# Dolt database files (added by bd init)
+# Beads / Dolt
+.beads/
 .dolt/
 *.db
+
+# Claude project config
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
